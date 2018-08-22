@@ -1,3 +1,4 @@
 # hello-world
 my repo
-I'm still learning here.
+
+Hey there! I'm still learning here.
